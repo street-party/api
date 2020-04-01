@@ -5,6 +5,7 @@
 <br>
 
 [![HitCount](http://hits.dwyl.io/street-party/api.svg)](http://hits.dwyl.io/street-party/api)
+![Python package](https://github.com/street-party/api/workflows/Python%20package/badge.svg)
 [![GitHub stars](https://img.shields.io/github/stars/street-party/api.svg)](https://GitHub.com/street-party/api/stargazers/)
 [![GitHub forks](https://img.shields.io/github/forks/street-party/api.svg)](https://GitHub.com/street-party/api/network/)
 [![GitHub contributors](https://img.shields.io/github/contributors/street-party/api.svg)](https://GitHub.com/street-party/api/graphs/contributors/)
